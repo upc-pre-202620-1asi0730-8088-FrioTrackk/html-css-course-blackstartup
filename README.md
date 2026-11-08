@@ -1,6 +1,6 @@
 # Mi primera página web con HTML y CSS
 
-Curso de **HTML y CSS** dirigido a estudiantes de secundaria (12–17 años) sin experiencia previa. Organizado en **cuatro lecciones de 15 minutos**, con 5 minutos de explicación y 10 minutos de demostración y práctica por lección. Construirás una página personal y adaptarás su diseño a distintos tamaños de pantalla.
+Curso de **HTML y CSS** dirigido a estudiantes de secundaria (12–17 años) sin experiencia previa. Organizado en **ocho lecciones de 7 a 8 minutos**, con explicación, demostración y práctica. Construirás una página personal y adaptarás su diseño a distintos tamaños de pantalla.
 
 **Duración** · 60 minutos &nbsp;|&nbsp; **Herramientas** · Navegador web y editor HTML gratuito en línea &nbsp;|&nbsp; **Prerrequisitos** · Ninguno
 
@@ -16,7 +16,7 @@ html-css-course-blackstartup/
 │   └── leccion-XX/       # Archivos de inicio para la práctica
 ├── completed-examples/
 │   └── leccion-XX/       # Ejemplo resuelto de la práctica
-├── scripts/             # Material de apoyo, como el avatar de la lección 2
+├── scripts/             # Fragmentos de apoyo para el avatar y las tarjetas
 └── README.md
 ```
 
@@ -28,13 +28,13 @@ html-css-course-blackstartup/
 
 ## ▶️ Cómo usar este repositorio
 
-1. Abre [OneCompiler para HTML](https://onecompiler.com/html).
+1. Abre [CodePen](https://codepen.io/pen/).
 2. Consulta el video de la lección correspondiente cuando se publique su enlace.
-3. Abre la rama de la lección y copia `starter-files/leccion-XX/index.html` en la pestaña `index.html` del editor. Si la lección incluye `styles.css`, cópialo en su pestaña. Deja `scripts.js` vacío.
-4. Pulsa **Run** para ver la página. Haz un cambio a la vez y vuelve a ejecutar para comprobar el resultado.
+3. Abre la rama de la lección. Copia el contenido de `<body>` del archivo inicial en el panel HTML de CodePen. Si la lección incluye `styles.css`, cópialo en el panel CSS.
+4. Haz un cambio a la vez y comprueba el resultado en la vista previa.
 5. Compara tu página con el ejemplo resuelto en `completed-examples/leccion-XX/`.
 
-**En la lección 2**, copia el fragmento completo de `scripts/avatar.html` para que se vea la imagen del ejemplo.
+**En la lección 3**, usa `scripts/avatar.html` para insertar el avatar. **En la lección 7**, usa `scripts/tarjetas.css` para ajustar las tarjetas al ancho disponible.
 
 **Puedes hacer todas las prácticas desde el navegador.**
 
@@ -44,89 +44,157 @@ html-css-course-blackstartup/
 
 | # | Tema | Duración | Video | Práctica | Responsable |
 |---|------|----------|-------|----------|-------------|
-| 1 | Tu primera página web | 15 min | Enlace pendiente | [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
-| 2 | Más contenido para tu página | 15 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Atauje Barreto, Alexander Sebastián |
-| 3 | El primer estilo de tu página | 15 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Vera Solsol, Nayely Macarena |
-| 4 | Una página que cabe en el celular | 15 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Daga Chávez, Joaquín Leonardo |
+| 1 | ¿Qué es un sitio web? | 7 min | Enlace pendiente | [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
+| 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
+| 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
+| 4 | Enlaces y secciones | 8 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
+| 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
+| 6 | Centrado, bordes y espacio | 8 min | Enlace pendiente | [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
+| 7 | El perfil en pantallas pequeñas | 8 min | Enlace pendiente | [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
+| 8 | Errores comunes y reto final | 7 min | Enlace pendiente | [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
 
 ---
 
-### 1️⃣ Lección 1 — Tu primera página web
+### 1️⃣ Lección 1 — ¿Qué es un sitio web?
 
-Crea el perfil de Sofía con un título y un párrafo. Distingue los datos del documento que van en `<head>` del contenido visible que va en `<body>`.
+Distingue el sitio web, sus páginas y el navegador. Usa un título para ver qué parte del ejemplo controla HTML y qué parte controla CSS.
 
 **Contenidos**
 
-- Usa `<title>` para nombrar el documento y `<h1>` para mostrar el encabezado de la página.
-- Escribe la presentación dentro de `<p>` y revisa el cierre de las etiquetas.
+- Sitios web, páginas y navegador.
+- Texto de un encabezado en HTML y propiedad `color` en CSS.
 
-**Práctica.** Cambia el saludo por un apodo inventado y escribe algo que te guste en el párrafo.
+**Práctica.** Cambia el texto del título y después cambia su color en la vista previa.
 
-**Consejos clave.** Coloca `<h1>` y `<p>` dentro de `<body>` y comprueba que ambas etiquetas se cierren.
+**Consejos clave.** Haz un cambio por vez para identificar qué modificó cada panel.
 
-**Piensa y comprueba.** ¿Qué cambia en la pestaña al editar `<title>`? ¿Qué cambia dentro de la página al editar `<h1>`?
+**Piensa y comprueba.** ¿Qué parte del código editarías para cambiar solo el color del título?
 
 ---
 
-### 2️⃣ Lección 2 — Más contenido para tu página
+### 2️⃣ Lección 2 — Tu primer documento HTML
 
-Amplía el perfil con un avatar, una lista de gustos y un enlace que lleva a esa sección.
+Construye el saludo y la presentación del perfil de Sofía.
 
 **Contenidos**
 
-- Usa `<img>` con `src` y un texto alternativo en `alt`. El fragmento del avatar se prepara en `scripts/avatar.html`.
-- Organiza los gustos con `<section>`, `<h2>`, `<ul>` y `<li>`.
-- Conecta el enlace `href="#gustos"` con el destino `id="gustos"`.
+- Partes de un documento HTML y atributo `lang`.
+- Título de la pestaña en `<title>`, encabezado visible en `<h1>` y párrafo en `<p>`.
 
-**Práctica.** Añade un tercer gusto dentro de `<ul>` y comprueba que aparezca con viñeta.
+**Práctica.** Escribe el saludo y añade dos frases de presentación dentro de `<p>`.
 
-**Consejos clave.** El texto que sigue a `#` en `href` debe coincidir con el `id` de la sección.
+**Consejos clave.** En un documento completo, coloca `<title>` en `<head>` y el contenido visible en `<body>`.
 
-**Piensa y comprueba.** ¿Adónde lleva el enlace «Ver mis gustos» después de agregar la tercera viñeta?
+**Piensa y comprueba.** ¿Dónde aparece el texto que escribes dentro de `<h1>`?
 
 ---
 
-### 3️⃣ Lección 3 — El primer estilo de tu página
+### 3️⃣ Lección 3 — Listas e imágenes
 
-Conecta `index.html` con `styles.css` y convierte el perfil en una tarjeta blanca sobre un fondo lavanda.
+Amplía el perfil con un avatar y una lista de gustos.
 
 **Contenidos**
 
-- Identifica el selector, la propiedad y el valor en una regla CSS.
-- Usa los selectores de etiqueta `body`, `h1` y `a` para cambiar la fuente y los colores. Mantén el enlace subrayado.
-- Aplica fondo, espacio interior y esquinas redondeadas a la clase `.perfil`.
+- Encabezado de sección con `<h2>` y viñetas con `<ul>` y `<li>`.
+- Imagen con `<img>`, origen en `src` y texto alternativo en `alt`.
 
-**Práctica.** Cambia el `padding` de la tarjeta de `24px` a `32px` y vuelve a ejecutar la página.
+**Práctica.** Agrega el avatar de `scripts/avatar.html` y añade un tercer gusto a la lista.
 
-**Consejos clave.** Comprueba que `<link>` apunte a `styles.css` y que el selector `.perfil` lleve punto.
+**Consejos clave.** Escribe cada gusto dentro de su propio `<li>` y revisa que el avatar tenga una descripción.
 
-**Piensa y comprueba.** ¿Dónde se nota el cambio al aumentar el `padding`?
+**Piensa y comprueba.** ¿Qué información aporta `alt` cuando la imagen no carga?
 
 ---
 
-### 4️⃣ Lección 4 — Una página que cabe en el celular
+### 4️⃣ Lección 4 — Enlaces y secciones
 
-Completa el perfil con una tarjeta de proyecto y adapta la distribución al ancho de la pantalla.
+Organiza el contenido del perfil y conecta el saludo con la sección de gustos.
 
 **Contenidos**
 
-- Centra el perfil con `max-width` y márgenes automáticos.
-- Agrupa «Mis gustos» y «Mi proyecto» en `.tarjetas`. Usa Flexbox, `flex-wrap` y `gap` para acomodarlas según el espacio disponible.
-- Actualiza el enlace para que apunte a `#proyecto`.
+- Contenido principal con `<main>` y bloques relacionados con `<section>`.
+- Enlace interno con `href="#gustos"` y destino con `id="gustos"`.
 
-**Proyecto final.** Agrega la tarjeta «Mi proyecto» y prueba el enlace en una vista amplia y otra angosta.
+**Práctica.** Agrega el enlace «Ver mis gustos» y comprueba que lleve a su sección.
 
-**Desafío final.** Escribe tu propia idea de proyecto y comprueba que el texto se lea bien en ambas vistas.
+**Consejos clave.** Reduce la altura de la vista previa si toda la página cabe en pantalla y el salto apenas se nota.
 
-**Consejos clave.** `flex-wrap` permite que una tarjeta pase a la siguiente fila cuando el espacio disponible se reduce.
-
-**Piensa y comprueba.** ¿Qué tarjeta baja cuando angostas la vista previa?
+**Piensa y comprueba.** ¿Qué ocurre si `href` y `id` escriben «gustos» de manera distinta?
 
 ---
+
+### 5️⃣ Lección 5 — Colores y fuentes con CSS
+
+Cambia el fondo, la tipografía y el color del título y del enlace del perfil.
+
+**Contenidos**
+
+- Selector, propiedad y valor de una regla CSS.
+- Selectores `body`, `h1` y `a`, y fuente `system-ui`.
+
+**Práctica.** Aplica las reglas una por una y prueba otro color para el título.
+
+**Consejos clave.** Usa `body` para los estilos generales y `h1` para ajustar el título.
+
+**Piensa y comprueba.** ¿Qué regla puedes cambiar para colorear el título sin modificar el fondo?
+
+---
+
+### 6️⃣ Lección 6 — Centrado, bordes y espacio
+
+Convierte el perfil en una tarjeta blanca, centrada y fácil de leer.
+
+**Contenidos**
+
+- Modelo de caja con `padding`, `border` y `margin`.
+- Selector `.perfil`, `box-sizing` y centrado con `max-width` y márgenes automáticos.
+
+**Práctica.** Agrega un borde a la tarjeta y prueba `32px` de `padding`.
+
+**Consejos clave.** El `padding` crea espacio dentro del borde. El `margin` lo crea por fuera.
+
+**Piensa y comprueba.** ¿Qué espacio cambia al aumentar el `padding`?
+
+---
+
+### 7️⃣ Lección 7 — El perfil en pantallas pequeñas
+
+Añade «Mi proyecto» y adapta la distribución de las dos tarjetas al ancho disponible.
+
+**Contenidos**
+
+- Contenedor de tarjetas con Flexbox, `flex-wrap` y `gap`.
+- Enlace actualizado a `#proyecto` y estilos de `scripts/tarjetas.css`.
+
+**Práctica.** Agrega la sección del proyecto, prueba su enlace y compara la vista amplia con la angosta.
+
+**Consejos clave.** `flex-wrap` permite que una tarjeta pase a otra fila cuando falta espacio.
+
+**Piensa y comprueba.** ¿Qué tarjeta pasa a la fila siguiente al angostar la vista?
+
+---
+
+### 8️⃣ Lección 8 — Errores comunes y reto final
+
+Corrige dos fallos del perfil y comprueba que el resultado funcione en una pantalla pequeña.
+
+**Contenidos**
+
+- Coincidencia entre `href="#proyecto"` e `id="proyecto"`.
+- Selector `.tarjetas` y revisión de comillas, cierres de etiquetas y llaves.
+
+**Reto final.** Corrige el destino del enlace y el selector de clase. Luego personaliza un texto o un color y revisa la descripción del avatar, el enlace y la vista angosta.
+
+**Consejos clave.** Corrige un fallo por vez y vuelve a probar después de cada cambio.
+
+**Piensa y comprueba.** ¿Qué cambia en la vista angosta después de recuperar el punto del selector `.tarjetas`?
+
+---
+
 
 ## 🧰 Recursos adicionales
 
-- **Editor en línea** · [OneCompiler para HTML](https://onecompiler.com/html).
+- **Editor en línea** · [CodePen](https://codepen.io/pen/).
 - **Archivos de inicio** · `starter-files/`.
 - **Ejemplos terminados** · `completed-examples/`.
 - **Material de apoyo** · `scripts/`.
