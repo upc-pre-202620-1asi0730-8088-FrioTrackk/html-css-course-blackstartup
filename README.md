@@ -139,7 +139,7 @@ Completa el perfil con una tarjeta de proyecto y adapta la distribución al anch
 
 **Institución** · Universidad Peruana de Ciencias Aplicadas (UPC)
 
-**Curso universitario** · Desarrollo de Aplicaciones Open Source
+**Curso universitario** · Aplicaciones Web
 
 **Equipo** · BlackStartup
 
