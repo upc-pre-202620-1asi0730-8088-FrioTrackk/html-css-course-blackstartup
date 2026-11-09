@@ -1,3 +1,4 @@
+
 # Mi primera página web con HTML y CSS
 
 Curso de **HTML y CSS** dirigido a estudiantes de secundaria (12–17 años) sin experiencia previa. Organizado en **ocho lecciones de 7 a 8 minutos**, con explicación, demostración y práctica. Construirás una página personal y adaptarás su diseño a distintos tamaños de pantalla.
@@ -34,7 +35,7 @@ html-css-course-blackstartup/
 4. Haz un cambio a la vez y comprueba el resultado en la vista previa.
 5. Compara tu página con el ejemplo resuelto en `completed-examples/leccion-XX/`.
 
-**En la lección 3**, usa `scripts/avatar.html` para insertar el avatar. **En la lección 7**, usa `scripts/tarjetas.css` para ajustar las tarjetas al ancho disponible.
+**En la lección 3**, también puedes abrir directamente [la práctica de CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) y usar `scripts/avatar.html` para insertar el avatar. **En la lección 7**, usa `scripts/tarjetas.css` para ajustar las tarjetas al ancho disponible.
 
 **Puedes hacer todas las prácticas desde el navegador.**
 
@@ -46,7 +47,7 @@ html-css-course-blackstartup/
 |---|------|----------|-------|----------|-------------|
 | 1 | ¿Qué es un sitio web? | 7 min | Enlace pendiente | [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
 | 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
-| 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
+| 3 | Listas e imágenes | 7 min | [Ver video](https://www.youtube.com/watch?v=gy5K_zXUArs) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) · [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
 | 4 | Enlaces y secciones | 8 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
 | 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
 | 6 | Centrado, bordes y espacio | 8 min | Enlace pendiente | [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
@@ -92,6 +93,12 @@ Construye el saludo y la presentación del perfil de Sofía.
 ### 3️⃣ Lección 3 — Listas e imágenes
 
 Amplía el perfil con un avatar y una lista de gustos.
+
+**Video de la lección.** [Ver en YouTube](https://www.youtube.com/watch?v=gy5K_zXUArs).
+
+**Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr).
+
+**Archivos de la lección.** [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03).
 
 **Contenidos**
 
@@ -190,7 +197,6 @@ Corrige dos fallos del perfil y comprueba que el resultado funcione en una panta
 **Piensa y comprueba.** ¿Qué cambia en la vista angosta después de recuperar el punto del selector `.tarjetas`?
 
 ---
-
 
 ## 🧰 Recursos adicionales
 
