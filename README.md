@@ -48,7 +48,7 @@ html-css-course-blackstartup/
 | 1 | ¿Qué es un sitio web? | 7 min | Enlace pendiente | [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
 | 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
 | 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
-| 4 | Enlaces y secciones | 8 min | [Ver video](https://www.youtube.com/watch?v=xDalTITh-HY) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
+| 4 | Enlaces y secciones | 8 min | [Ver video](https://www.youtube.com/watch?v=bJOnw4Z3lSQ) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
 | 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
 | 6 | Centrado, bordes y espacio | 8 min | Enlace pendiente | [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
 | 7 | El perfil en pantallas pequeñas | 8 min | Enlace pendiente | [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
@@ -117,7 +117,7 @@ Amplía el perfil con un avatar y una lista de gustos.
 
 Organiza el contenido del perfil y conecta el saludo con la sección de gustos.
 
-**Video de la lección.** [Ver en YouTube](https://www.youtube.com/watch?v=xDalTITh-HY).
+**Video de la lección.** [Ver en YouTube](https://www.youtube.com/watch?v=bJOnw4Z3lSQ).
 
 **Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ).
 
