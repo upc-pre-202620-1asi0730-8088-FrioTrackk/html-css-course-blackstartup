@@ -35,7 +35,7 @@ html-css-course-blackstartup/
 4. Haz un cambio a la vez y comprueba el resultado en la vista previa.
 5. Compara tu página con el ejemplo resuelto en `completed-examples/leccion-XX/`.
 
-**En la lección 3**, también puedes abrir directamente [la práctica de CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) y usar `scripts/avatar.html` para insertar el avatar. **En la lección 4**, abre [la práctica de enlaces y secciones en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ). **En la lección 7**, usa `scripts/tarjetas.css` para ajustar las tarjetas al ancho disponible.
+**En la lección 3**, usa `scripts/avatar.html` para insertar el avatar. **En la lección 4**, abre [la práctica de enlaces y secciones en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ). **En la lección 7**, usa `scripts/tarjetas.css` para ajustar las tarjetas al ancho disponible.
 
 **Puedes hacer todas las prácticas desde el navegador.**
 
@@ -93,12 +93,6 @@ Construye el saludo y la presentación del perfil de Sofía.
 ### 3️⃣ Lección 3 — Listas e imágenes
 
 Amplía el perfil con un avatar y una lista de gustos.
-
-**Video de la lección.** [Ver en YouTube](https://www.youtube.com/watch?v=gy5K_zXUArs).
-
-**Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr).
-
-**Archivos de la lección.** [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03).
 
 **Contenidos**
 
