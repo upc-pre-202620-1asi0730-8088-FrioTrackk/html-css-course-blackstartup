@@ -44,7 +44,7 @@ html-css-course-blackstartup/
 
 | # | Tema | Duración | Video | Práctica | Responsable |
 |---|------|----------|-------|----------|-------------|
-| 1 | ¿Qué es un sitio web? | 7 min | [Ver video](https://youtu.be/E32RspCAfI4) | [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
+| 1 | ¿Qué es un sitio web? | 7 min | [Ver video](https://youtu.be/E32RspCAfI4) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77d-e51a-7666-858a-d5d260fc7836) · [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
 | 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
 | 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
 | 4 | Enlaces y secciones | 8 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
