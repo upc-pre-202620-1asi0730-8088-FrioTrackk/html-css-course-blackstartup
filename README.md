@@ -45,7 +45,7 @@ html-css-course-blackstartup/
 | # | Tema | Duración | Video | Práctica | Responsable |
 |---|------|----------|-------|----------|-------------|
 | 1 | ¿Qué es un sitio web? | 7 min | Enlace pendiente | [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
-| 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
+| 2 | Tu primer documento HTML | 8 min | [Ver video](https://youtu.be/ZOoU4fDC8Jo) | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
 | 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
 | 4 | Enlaces y secciones | 8 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
 | 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |

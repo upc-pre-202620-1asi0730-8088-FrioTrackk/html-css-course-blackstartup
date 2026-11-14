@@ -1,0 +1,2 @@
+<h1>Hola, soy Sofía</h1>
+<p>Me gusta dibujar. También juego fútbol.</p>
