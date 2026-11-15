@@ -1,0 +1,3 @@
+<h1>Hola, soy Sofía</h1>
+<p>Me gusta dibujar.</p>
+<!-- Añade Mis gustos, una lista y el avatar después de la lista. -->

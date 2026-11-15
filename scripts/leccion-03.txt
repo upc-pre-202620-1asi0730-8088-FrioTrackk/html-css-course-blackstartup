@@ -1,0 +1,26 @@
+LECCIÓN 03 · Listas e imágenes
+Duración del video: 7 min
+
+Objetivo
+Añadir un subtítulo, una lista de gustos y una imagen al perfil de Sofía.
+
+Archivos iniciales
+starter-files/leccion-03/index.html: documento completo para abrir en el navegador.
+starter-files/leccion-03/panel-html.txt: contenido para el panel HTML de CodePen.
+styles.css permanece vacío; esta lección trabaja únicamente HTML.
+
+Recorrido
+1. Conserva el saludo «Hola, soy Sofía» y el párrafo «Me gusta dibujar.».
+2. Debajo del párrafo, escribe <h2>Mis gustos</h2>.
+3. Crea <ul> con un <li> para Dibujar y otro para Jugar fútbol.
+4. Después de cerrar la lista, pega el fragmento de scripts/avatar.html.
+5. Identifica src, alt y width="160" y comprueba la imagen en la vista previa.
+
+Práctica
+Añade un tercer gusto dentro de la misma lista. Revisa que aparezca como una
+viñeta y que cada <li> tenga su cierre. La imagen de ejemplo requiere internet.
+
+Comprobación
+El ejemplo terminado muestra los dos gustos de la demostración y el avatar
+después de la lista. Tu tercer gusto es una personalización de esa estructura.
+Pregunta: ¿qué información aporta alt cuando la imagen no carga?
