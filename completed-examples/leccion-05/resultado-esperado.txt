@@ -1,0 +1,2 @@
+Hola, soy Sofía
+El título toma color y el perfil cambia de fuente.

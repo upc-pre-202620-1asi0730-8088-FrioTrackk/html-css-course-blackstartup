@@ -1,0 +1,34 @@
+LECCIÓN 05 · Colores y fuentes con CSS
+Duración: 7 min
+Usa reglas CSS para cambiar el aspecto del perfil.
+
+00:00–00:45 · Muestra qué cambia
+En pantalla: Diapositiva 17. Señala el objetivo.
+Narración: El perfil ya tiene contenido. Hoy usaremos CSS para cambiar su color y su tipografía, manteniendo los textos y la imagen.
+
+00:45–02:10 · Desarma una regla
+En pantalla: Diapositiva 18. Señala selector, propiedad y valor.
+Narración: Una regla CSS dice a qué elemento se aplica y cómo cambia. Hache uno elige el título. Color es la propiedad. El código morado es el valor. Las llaves agrupan los cambios de esa regla.
+
+02:10–03:05 · Contrasta dos selectores
+En pantalla: Diapositiva 19. Enmarca h1 y body.
+Narración: Con hache uno ajusto el título. Con body puedo establecer la fuente general del perfil. System-ui usa la tipografía habitual del sistema.
+
+03:05–05:20 · Demostración
+En pantalla: CodePen. Abre el inicial 05. Agrega las reglas de body, h1 y a del resuelto 05 de una en una.
+Narración: Primero cambio la fuente y el fondo de la página con body. Luego pongo morado el título con hache uno. Por último, ajusto el color del enlace. Mira qué elementos cambia cada regla.
+
+05:20–07:00 · Pausa y cierre
+En pantalla: Diapositiva 20. Deja 25 s. Vuelve a CodePen y prueba otro color.
+Narración: Cambia solo el color del título. Si el fondo y el texto siguen como antes, editaste la regla correcta. Después vamos a convertir el perfil en una tarjeta.
+
+Fragmento para señalar en la diapositiva
+h1 {
+  color: #5b21b6;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+}
+
+Para demostrar, usa los archivos iniciales y resueltos de la lección.
