@@ -2,7 +2,7 @@
 
 Curso de **HTML y CSS** dirigido a estudiantes de secundaria (12–17 años) sin experiencia previa. Organizado en **ocho lecciones**, con explicación, demostración y práctica. Construirás una página personal y adaptarás su diseño a distintos tamaños de pantalla.
 
-**Duración aproximada** · 1 hora &nbsp;|&nbsp; **Herramientas** · Navegador web y editor HTML gratuito en línea &nbsp;|&nbsp; **Prerrequisitos** · Ninguno
+**Duración total de los videos** · 58 min 55 s &nbsp;|&nbsp; **Herramientas** · Navegador web y editor HTML gratuito en línea &nbsp;|&nbsp; **Prerrequisitos** · Ninguno
 
 ---
 
@@ -44,14 +44,14 @@ html-css-course-blackstartup/
 
 | # | Tema | Duración | Video | Práctica | Responsable |
 |---|------|----------|-------|----------|-------------|
-| 1 | ¿Qué es un sitio web? | 7 min | [Ver video](https://youtu.be/E32RspCAfI4) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77d-e51a-7666-858a-d5d260fc7836) · [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
-| 2 | Tu primer documento HTML | 8 min | [Ver video](https://youtu.be/ZOoU4fDC8Jo) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77f-a886-76ff-a31e-51c10f6864f1) · [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
-| 3 | Listas e imágenes | 7 min | [Ver video](https://www.youtube.com/watch?v=L95xlqr4r3Y) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) · [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
-| 4 | Enlaces y secciones | 8 min | [Ver video](https://www.youtube.com/watch?v=bJOnw4Z3lSQ) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
-| 5 | Colores y fuentes con CSS | 4 min | [Ver video](https://youtu.be/3zpar1CEtGE) | [CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre) · [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
-| 6 | Centrado, bordes y espacio | 9 min | [Ver video](https://youtu.be/-cDSNbggIDY) | [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
-| 7 | El perfil en pantallas pequeñas | 8:01 | [Ver video](https://youtu.be/8EiuJZBi2yI) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6c-04e9-762d-b89f-70e735a3227a) · [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
-| 8 | Errores comunes y reto final | 7:01 | [Ver video](https://youtu.be/ae2Eah36l2o) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6d-364c-78f3-a88c-69c875c61ac5) · [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
+| 1 | ¿Qué es un sitio web? | 7:00 | [Ver video](https://youtu.be/E32RspCAfI4) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77d-e51a-7666-858a-d5d260fc7836) · [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
+| 2 | Tu primer documento HTML | 8:00 | [Ver video](https://youtu.be/ZOoU4fDC8Jo) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77f-a886-76ff-a31e-51c10f6864f1) · [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
+| 3 | Listas e imágenes | 7:00 | [Ver video](https://www.youtube.com/watch?v=L95xlqr4r3Y) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) · [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
+| 4 | Enlaces y secciones | 8:00 | [Ver video](https://www.youtube.com/watch?v=bJOnw4Z3lSQ) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
+| 5 | Colores y fuentes con CSS | 4:45 | [Ver video](https://youtu.be/3zpar1CEtGE) | [CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre) · [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
+| 6 | Centrado, bordes y espacio | 9:10 | [Ver video](https://youtu.be/-cDSNbggIDY) | [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
+| 7 | El perfil en pantallas pequeñas | 8:00 | [Ver video](https://youtu.be/8EiuJZBi2yI) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6c-04e9-762d-b89f-70e735a3227a) · [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
+| 8 | Errores comunes y reto final | 7:00 | [Ver video](https://youtu.be/ae2Eah36l2o) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6d-364c-78f3-a88c-69c875c61ac5) · [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
 
 ---
 
@@ -280,6 +280,10 @@ Corrige dos fallos del perfil y comprueba que el resultado funcione en una panta
 **NRC** · 8088
 
 **Equipo** · BlackStartup
+
+**Líder del equipo** · Atauje Barreto, Alexander Sebastián
+
+**Fecha** · 15 de noviembre de 2026
 
 Las lecciones se distribuyeron por pares para desarrollar una misma página personal de forma progresiva. Cada integrante preparó los materiales de sus lecciones en una rama de trabajo; la guía reúne los videos, las prácticas y los ejemplos de todo el curso.
 
