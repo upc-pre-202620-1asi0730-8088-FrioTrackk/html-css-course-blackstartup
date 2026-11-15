@@ -98,7 +98,9 @@ Amplía el perfil con un avatar y una lista de gustos.
 
 **Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr).
 
-**Archivos de la lección.** [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03).
+**Archivos de la lección.** [Iniciales](starter-files/leccion-03/) · [Ejemplo terminado](completed-examples/leccion-03/) · [Guía de práctica](scripts/leccion-03.txt).
+
+Para CodePen, copia `panel-html.txt` en el panel HTML. Para trabajar con archivos, abre `index.html` en el navegador. `styles.css` está vacío porque esta lección se centra en HTML. El avatar necesita conexión a internet.
 
 **Contenidos**
 

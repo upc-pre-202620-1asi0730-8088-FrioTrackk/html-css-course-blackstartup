@@ -1,0 +1,10 @@
+Hola, soy Sofía
+Me gusta dibujar.
+Mis gustos
+• Dibujar
+• Jugar fútbol
+
+Debajo de la lista aparece un avatar morado de 160 píxeles de ancho.
+El ejemplo reproduce los dos gustos de la demostración. En tu práctica, añade
+un tercer gusto dentro de su propio <li>; aparecerá una viñeta adicional.
+Comprueba que la imagen incluya src y un alt que describa su contenido.
