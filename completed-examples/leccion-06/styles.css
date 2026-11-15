@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #ede9fe;
+  color: #24183a;
+  line-height: 1.6;
+  margin: 0;
+  padding: 16px;
+}
+
+h1 {
+  color: #5b21b6;
+}
+
+.perfil {
+  max-width: 760px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 24px;
+  border: 1px solid #ddd6fe;
+  border-radius: 16px;
+}
+
+a {
+  color: #5b21b6;
+}
