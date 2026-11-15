@@ -1,0 +1,34 @@
+LECCIÓN 02 · Tu primer documento HTML
+Duración: 8 min
+Crea un título principal y un párrafo para el perfil.
+
+00:00–00:45 · Recupera lo anterior
+En pantalla: Diapositiva 5. Señala el objetivo.
+Narración: Ya vimos para qué sirve HTML. Hoy vamos a crear dos partes visibles de un perfil: el título principal y una pequeña presentación.
+
+00:45–02:20 · Ubica las partes del documento
+En pantalla: Diapositiva 6. Resalta head y body. Subraya lang="es".
+Narración: Head contiene datos de la página, como el nombre de la pestaña. Body contiene lo que se ve en la página. Lang es un atributo de html que indica el idioma. En el editor, según la interfaz, veremos el documento completo o editaremos el contenido del body.
+
+02:20–03:25 · Lee una etiqueta
+En pantalla: Diapositiva 7. Rodea apertura, texto y cierre en h1.
+Narración: Hache uno indica el título principal. Una etiqueta lo abre y otra, con una barra, lo cierra. Juntas con el texto forman el elemento. El párrafo usa p y sigue el mismo patrón.
+
+03:25–06:15 · Demostración
+En pantalla: CodePen. Abre el inicial 02. Escribe h1 y p. En el HTML completo, muestra title en head y cambia el título de pestaña si la vista lo permite.
+Narración: Escribo Hola, soy Sofía dentro de hache uno. Debajo pongo un párrafo con un gusto. El título de la pestaña y el título visible cumplen funciones distintas. Observa que el párrafo aparece debajo del encabezado.
+
+06:15–08:00 · Pausa y cierre
+En pantalla: Diapositiva 8. Deja 30 s de práctica. Regresa al editor y añade la frase del ejemplo resuelto.
+Narración: Agrega una segunda frase y comprueba que sigue dentro de p. Revisa que aparezcan el encabezado y el párrafo. En el siguiente video añadiremos una lista y una imagen.
+
+Fragmento para señalar en la diapositiva
+<html lang="es">
+<head>…</head>
+<body>
+  <h1>Hola, soy Sofía</h1>
+  <p>Me gusta dibujar.</p>
+</body>
+</html>
+
+Para demostrar, usa los archivos iniciales y resueltos de la lección.
