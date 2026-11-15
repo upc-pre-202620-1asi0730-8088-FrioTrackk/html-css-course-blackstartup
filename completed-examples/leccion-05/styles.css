@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui, sans-serif;
+  background-color: #ede9fe;
+  color: #24183a;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #5b21b6;
+}
+
+a {
+  color: #5b21b6;
+}

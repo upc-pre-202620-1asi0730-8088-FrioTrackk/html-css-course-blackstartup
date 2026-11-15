@@ -49,7 +49,7 @@ html-css-course-blackstartup/
 | 3 | Listas e imágenes | 7 min | [Ver video](https://www.youtube.com/watch?v=L95xlqr4r3Y) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) · [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
 | 4 | Enlaces y secciones | 8 min | [Ver video](https://www.youtube.com/watch?v=bJOnw4Z3lSQ) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
 | 5 | Colores y fuentes con CSS | 4 min | [Ver video](https://youtu.be/3zpar1CEtGE) | [CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre) · [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
-| 6 | Centrado, bordes y espacio | 9 min | [Ver video](https://youtu.be/-cDSNbggIDY)| [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
+| 6 | Centrado, bordes y espacio | 9 min | [Ver video](https://youtu.be/-cDSNbggIDY) | [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
 | 7 | El perfil en pantallas pequeñas | 8:01 | [Ver video](https://youtu.be/8EiuJZBi2yI) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6c-04e9-762d-b89f-70e735a3227a) · [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
 | 8 | Errores comunes y reto final | 7:01 | [Ver video](https://youtu.be/ae2Eah36l2o) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6d-364c-78f3-a88c-69c875c61ac5) · [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
 
@@ -163,7 +163,7 @@ Cambia el fondo, la tipografía y el color del título y del enlace del perfil.
 
 **Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre).
 
-**Archivos de la lección.** [Iniciales](starter-files/leccion-05/) · [Ejemplo terminado](completed-examples/leccion-05/) · [Guion de apoyo](scripts/leccion-05.txt).
+**Archivos de la lección.** [Iniciales](starter-files/leccion-05/) · [Ejemplo terminado](completed-examples/leccion-05/) · [Guía de práctica](scripts/leccion-05.txt).
 
 El CodePen muestra el ejemplo terminado. Para realizar la práctica desde el inicio, copia `starter-files/leccion-05/panel-html.txt` en el panel HTML y `starter-files/leccion-05/styles.css` en el panel CSS. Después compara tus cambios con el ejemplo terminado.
 
@@ -188,7 +188,7 @@ Convierte el perfil en una tarjeta blanca, centrada y fácil de leer.
 
 **Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe).
 
-**Archivos de la lección.** [Iniciales](starter-files/leccion-06/) · [Ejemplo terminado](completed-examples/leccion-06/) · [Guion de apoyo](scripts/leccion-06.txt).
+**Archivos de la lección.** [Iniciales](starter-files/leccion-06/) · [Ejemplo terminado](completed-examples/leccion-06/) · [Guía de práctica](scripts/leccion-06.txt).
 
 El CodePen muestra el ejemplo terminado. Para realizar la práctica desde el inicio, copia `starter-files/leccion-06/panel-html.txt` en el panel HTML y `starter-files/leccion-06/styles.css` en el panel CSS. Después compara tus cambios con el ejemplo terminado.
 
