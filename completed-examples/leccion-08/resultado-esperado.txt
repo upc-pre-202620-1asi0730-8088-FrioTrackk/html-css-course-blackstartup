@@ -1,0 +1,3 @@
+«Ver mi proyecto» lleva a la sección con id="proyecto".
+Con el selector .tarjetas, las dos tarjetas quedan lado a lado en vista ancha y se apilan en vista angosta.
+El avatar conserva su texto alternativo descriptivo.

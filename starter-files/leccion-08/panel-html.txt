@@ -1,0 +1,27 @@
+<main class="perfil">
+  <header>
+    <h1>Hola, soy Sofía</h1>
+    <p>Me gusta dibujar. También juego fútbol.</p>
+    <img
+      src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20120%20120%22%3E%3Crect%20width%3D%22120%22%20height%3D%22120%22%20rx%3D%2224%22%20fill%3D%22%23ddd6fe%22%2F%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2245%22%20r%3D%2220%22%20fill%3D%22%235b21b6%22%2F%3E%3Cpath%20d%3D%22M25%20100a35%2035%200%200%201%2070%200%22%20fill%3D%22%235b21b6%22%2F%3E%3C%2Fsvg%3E"
+      alt="Silueta morada de un perfil"
+      width="120"
+      height="120">
+    <p><a href="#proyeto">Ver mi proyecto</a></p>
+  </header>
+
+  <div class="tarjetas">
+    <section id="gustos" class="tarjeta">
+      <h2>Mis gustos</h2>
+      <ul>
+        <li>Dibujar</li>
+        <li>Jugar fútbol</li>
+      </ul>
+    </section>
+
+    <section id="proyecto" class="tarjeta">
+      <h2>Mi proyecto</h2>
+      <p>Estoy creando un cuaderno de dibujos de animales.</p>
+    </section>
+  </div>
+</main>

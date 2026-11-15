@@ -1,0 +1,34 @@
+LECCIÓN 08 · Errores comunes y reto final
+Duración del video en YouTube: 7:01
+Corrige fallos de HTML y CSS y personaliza el perfil.
+
+00:00–00:47 · Presenta la revisión
+En pantalla: Diapositiva 29. Señala la meta.
+Narración: El perfil está listo para revisar. Voy a mostrar dos errores pequeños que pueden cambiar el resultado: una letra en un enlace y un punto en un selector.
+
+00:47–02:05 · Explica cómo buscar la causa
+En pantalla: Diapositiva 30. Resalta el par href e id, y luego el selector de clase.
+Narración: Cuando un enlace no salta, compara el destino escrito en href con el id. Cuando una regla no se aplica, revisa que el selector coincida con el HTML. También ayuda mirar las comillas, las etiquetas de cierre y las llaves.
+
+02:05–03:00 · Muestra la corrección
+En pantalla: Diapositiva 31. Enmarca la c omitida y el punto de .tarjetas.
+Narración: Proyecto está escrito con c en el identificador. Corrijo esa letra en el enlace. En CSS agrego el punto antes de tarjetas para que la regla seleccione la clase del contenedor.
+
+03:00–05:10 · Demostración
+En pantalla: CodePen. Abre el inicial 08 con los dos errores. Comprueba primero el fallo y luego corrige href y el selector por separado. Prueba que el enlace funcione, que las tarjetas queden lado a lado en vista ancha y que se apilen en vista angosta.
+Narración: Primero pruebo el enlace. Cuando encuentro la letra que falta, corrijo solo esa parte y vuelvo a probar. Después arreglo el selector. Al cambiar el ancho, las tarjetas vuelven a acomodarse.
+
+05:10–07:01 · Reto y cierre
+En pantalla: Diapositiva 32. Deja 30 s. Muestra una personalización y repasa los criterios en CodePen.
+Narración: Personaliza un texto o un color con datos de ejemplo. Revisa que la imagen tenga una descripción, que el enlace llegue a su sección y que todo se pueda leer en una vista angosta. Ya tienes tu primera página.
+
+Fragmento para señalar en la diapositiva
+href="#proyeto"  →  href="#proyecto"
+
+/* Selector corregido */
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+Para demostrar, usa los archivos iniciales y resueltos de la lección.
