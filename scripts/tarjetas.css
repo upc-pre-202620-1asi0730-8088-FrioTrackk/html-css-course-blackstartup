@@ -1,0 +1,17 @@
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.tarjeta {
+  flex: 1 1 240px;
+  min-width: 0;
+  background-color: #f5f3ff;
+  padding: 16px;
+  border-radius: 12px;
+}
+
+.tarjeta h2 {
+  margin-top: 0;
+}

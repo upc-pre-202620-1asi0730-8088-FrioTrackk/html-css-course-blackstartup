@@ -1,0 +1,3 @@
+Mis gustos y Mi proyecto quedan lado a lado en vista ancha.
+En vista angosta, Mi proyecto pasa a la siguiente fila sin desplazamiento horizontal.
+El enlace «Ver mi proyecto» lleva a la sección Mi proyecto.
