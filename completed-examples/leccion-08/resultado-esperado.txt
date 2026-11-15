@@ -1,3 +1,9 @@
-«Ver mi proyecto» lleva a la sección con id="proyecto".
-Con el selector .tarjetas, las dos tarjetas quedan lado a lado en vista ancha y se apilan en vista angosta.
+Enlace a Mi proyecto
+Antes: pulsa «Ver mi proyecto». El enlace a #proyeto no llega a la sección.
+Después: corrige el destino a #proyecto y vuelve a pulsar. El enlace lleva a la sección con id="proyecto".
+
+Distribución de las tarjetas
+Antes: en la vista ancha, las tarjetas aparecen una debajo de otra porque el selector tarjetas no coincide con la clase del contenedor.
+Después: agrega el punto a .tarjetas. En la vista ancha, las tarjetas quedan lado a lado. En la vista angosta, se apilan incluso con el selector corregido. Usa la vista ancha para comprobar la diferencia.
+
 El avatar conserva su texto alternativo descriptivo.

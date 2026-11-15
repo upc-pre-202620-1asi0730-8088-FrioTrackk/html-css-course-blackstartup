@@ -187,7 +187,7 @@ Corrige dos fallos del perfil y comprueba que el resultado funcione en una panta
 
 **Consejos clave.** Corrige un fallo por vez y vuelve a probar después de cada cambio.
 
-**Piensa y comprueba.** ¿Qué cambia en la vista angosta después de recuperar el punto del selector `.tarjetas`?
+**Piensa y comprueba.** ¿Cómo se acomodan las tarjetas en la vista ancha antes y después de recuperar el punto del selector `.tarjetas`?
 
 ---
 
