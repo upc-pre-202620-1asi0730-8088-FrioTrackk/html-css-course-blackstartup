@@ -1,0 +1,26 @@
+LECCIÓN 04 · Enlaces y secciones
+Duración del video: 8 min
+
+Objetivo
+Organizar el perfil y conectar un enlace interno con la sección de gustos.
+
+Archivos iniciales
+starter-files/leccion-04/index.html: documento completo para el navegador.
+starter-files/leccion-04/panel-html.txt: contenido para el panel HTML de CodePen.
+El punto de partida conserva la presentación, lista y avatar de la lección 3.
+styles.css permanece vacío; los estilos se trabajan desde la lección 5.
+
+Recorrido
+1. Coloca todo el contenido principal dentro de <main>.
+2. Después del párrafo de presentación, añade:
+   <p><a href="#gustos">Ver mis gustos</a></p>
+3. Debajo del enlace, abre <section id="gustos">.
+4. Coloca dentro el h2 Mis gustos, la lista y el avatar de la lección 3.
+5. Cierra primero section y después main.
+
+Práctica y comprobación
+Pulsa «Ver mis gustos». Comprueba que href="#gustos" coincida con id="gustos".
+El numeral se escribe en href y no en id. El identificador debe ser único.
+Reduce la altura de la vista previa si la página cabe completa y el salto no se nota.
+La imagen de ejemplo requiere internet. No se necesita CSS para el enlace interno.
+Pregunta: ¿qué ocurre si href e id escriben gustos de manera distinta?

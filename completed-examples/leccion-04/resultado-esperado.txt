@@ -1,0 +1,12 @@
+Hola, soy Sofía
+Me gusta dibujar.
+Ver mis gustos
+Mis gustos
+• Dibujar
+• Jugar fútbol
+
+Todo el contenido está dentro de <main>.
+El subtítulo, la lista y el avatar de 160 píxeles están dentro de section#gustos.
+El enlace «Ver mis gustos» aparece antes de esa sección y utiliza href="#gustos".
+Al pulsarlo, el navegador llega a la sección y la dirección termina en #gustos.
+Si toda la página cabe en la vista previa, reduce su altura para notar el salto.

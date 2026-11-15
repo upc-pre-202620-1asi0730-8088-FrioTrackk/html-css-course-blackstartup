@@ -115,7 +115,9 @@ Organiza el contenido del perfil y conecta el saludo con la sección de gustos.
 
 **Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ).
 
-**Archivos de la lección.** [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04).
+**Archivos de la lección.** [Iniciales](starter-files/leccion-04/) · [Ejemplo terminado](completed-examples/leccion-04/) · [Guía de práctica](scripts/leccion-04.txt).
+
+Para CodePen, copia `panel-html.txt` en el panel HTML. Para trabajar con archivos, abre `index.html` en el navegador. `styles.css` está vacío porque esta lección se centra en HTML. El avatar necesita conexión a internet.
 
 **Contenidos**
 
