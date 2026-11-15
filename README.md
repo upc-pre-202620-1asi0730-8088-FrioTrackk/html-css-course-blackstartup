@@ -8,7 +8,7 @@ Curso de **HTML y CSS** dirigido a estudiantes de secundaria (12–17 años) sin
 
 ## 📂 Estructura del repositorio
 
-Cuando se suban los materiales, cada rama `leccion-XX` seguirá esta estructura. `XX` corresponde al número de la lección.
+Convenciones de carpetas para los materiales de cada lección. `XX` corresponde al número de la lección.
 
 ```text
 html-css-course-blackstartup/
@@ -29,7 +29,7 @@ html-css-course-blackstartup/
 ## ▶️ Cómo usar este repositorio
 
 1. Abre [CodePen](https://codepen.io/pen/).
-2. Consulta el video de la lección correspondiente cuando se publique su enlace.
+2. Abre el video de la lección desde la tabla.
 3. Abre la rama de la lección. Copia el contenido de `<body>` del archivo inicial en el panel HTML de CodePen. Si la lección incluye `styles.css`, cópialo en el panel CSS.
 4. Haz un cambio a la vez y comprueba el resultado en la vista previa.
 5. Compara tu página con el ejemplo resuelto en `completed-examples/leccion-XX/`.
@@ -45,13 +45,13 @@ html-css-course-blackstartup/
 | # | Tema | Duración | Video | Práctica | Responsable |
 |---|------|----------|-------|----------|-------------|
 | 1 | ¿Qué es un sitio web? | 7 min | [Ver video](https://youtu.be/E32RspCAfI4) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77d-e51a-7666-858a-d5d260fc7836) · [`leccion-01`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-01) | Saavedra Flores, Rodrigo Andree |
-| 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
-| 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
-| 4 | Enlaces y secciones | 8 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
-| 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
-| 6 | Centrado, bordes y espacio | 8 min | Enlace pendiente | [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
-| 7 | El perfil en pantallas pequeñas | 8 min | Enlace pendiente | [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
-| 8 | Errores comunes y reto final | 7 min | Enlace pendiente | [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
+| 2 | Tu primer documento HTML | 8 min | [Ver video](https://youtu.be/ZOoU4fDC8Jo) | [CodePen](https://codepen.io/editor/Rodrigo-Saavedra-Flores/pen/01a1d77f-a886-76ff-a31e-51c10f6864f1) · [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
+| 3 | Listas e imágenes | 7 min | [Ver video](https://www.youtube.com/watch?v=L95xlqr4r3Y) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/JoWxGjr) · [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
+| 4 | Enlaces y secciones | 8 min | [Ver video](https://www.youtube.com/watch?v=bJOnw4Z3lSQ) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
+| 5 | Colores y fuentes con CSS | 7 min | — | [CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre) · [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
+| 6 | Centrado, bordes y espacio | 8 min | — | [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
+| 7 | El perfil en pantallas pequeñas | 8 min | — | [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
+| 8 | Errores comunes y reto final | 7 min | — | [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
 
 ---
 
