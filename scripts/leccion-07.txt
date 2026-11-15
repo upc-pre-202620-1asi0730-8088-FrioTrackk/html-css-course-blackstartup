@@ -1,0 +1,32 @@
+LECCIÓN 07 · El perfil en pantallas pequeñas
+Duración del video en YouTube: 8:01
+Termina el perfil y adapta las tarjetas al ancho disponible.
+
+00:00–00:52 · Muestra el objetivo
+En pantalla: Diapositiva 25. Señala el resultado esperado.
+Narración: Hoy vamos a terminar el perfil con una sección de proyecto. Después lo probaremos en una vista ancha y en otra parecida a la de un celular.
+
+00:52–02:28 · Explica el contenedor
+En pantalla: Diapositiva 26. Enmarca el grupo y luego cada tarjeta.
+Narración: El contenedor reúne gustos y proyecto. Flexbox ordena esas tarjetas. La opción wrap permite que una tarjeta baje cuando el ancho disponible ya no alcanza para las dos.
+
+02:28–03:30 · Muestra la diferencia visual
+En pantalla: Diapositiva 27. Contrasta las dos vistas.
+Narración: En la vista ancha caben las dos tarjetas lado a lado. En la angosta, la segunda pasa abajo. La información sigue siendo la misma y el texto se puede leer sin mover la página hacia los lados.
+
+03:30–06:20 · Demostración
+En pantalla: CodePen. Abre el inicial 07. Compara el inicial con el resuelto 07. Agrega la sección de proyecto, agrupa ambas secciones y actualiza el enlace a #proyecto. Agrega display: flex, flex-wrap y gap, y luego los estilos de cada tarjeta. El bloque completo está en scripts/tarjetas.css. Ensancha y reduce la vista previa.
+Narración: Agrego la sección Mi proyecto. Pongo ambas secciones dentro del contenedor de tarjetas y cambio el destino del enlace. Después activo flex, wrap y la separación entre tarjetas. Voy a reducir la vista para comprobar qué pasa.
+
+06:20–08:01 · Pausa y cierre
+En pantalla: Diapositiva 28. Deja 30 s. Regresa al editor y comprueba el enlace y los dos anchos.
+Narración: Cambia el texto del proyecto por una idea tuya. Revisa el perfil en ambos anchos y prueba el enlace. En la última lección veremos cómo encontrar y corregir errores.
+
+Fragmento para señalar en la diapositiva
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+Para demostrar, usa los archivos iniciales y resueltos de la lección.
