@@ -1,0 +1,32 @@
+LECCIÓN 01 · ¿Qué es un sitio web?
+Duración: 7 min
+Distingue el contenido de su apariencia.
+
+00:00–00:45 · Abre con la meta
+En pantalla: Diapositiva 1. Señala el título.
+Narración: En este curso vamos a crear un perfil desde cero. Solo necesitas un navegador. Hoy vamos a ver qué hace cada parte y a cambiar un título en la pantalla.
+
+00:45–02:10 · Compara las tres ideas
+En pantalla: Diapositiva 2. Resalta cada tarjeta al nombrarla.
+Narración: Piensa en un sitio de tu colegio. Puede tener una página de inicio, otra de noticias y otra de contacto. El navegador te muestra esas páginas. HTML organiza el contenido de una página, por ejemplo, el título. CSS decide cómo se ve ese título, por ejemplo, de qué color aparece.
+
+02:10–03:05 · Identifica texto y color
+En pantalla: Diapositiva 3. Marca el título en HTML y el color en CSS.
+Narración: En este ejemplo, el texto Mi primera web está en HTML. En CSS aparece una regla que pinta de morado el título. Si cambio el texto, cambia lo que dice. Si cambio el color, cambia cómo se ve.
+
+03:05–05:15 · Demostración
+En pantalla: CodePen. Abre el inicial 01. Cambia primero el texto y después el color. Deja la vista previa visible tras cada cambio.
+Narración: En el editor, encuentro el título en el archivo o panel HTML. Escribo Mi primera web y miro la vista previa. Ahora paso al CSS y cambio el color. Fíjate en que el mismo título sigue apareciendo.
+
+05:15–07:00 · Pausa y cierre
+En pantalla: Diapositiva 4. Deja 25 s para probar. Vuelve a CodePen y muestra la comprobación.
+Narración: Pausa el video y prueba un título distinto. Después cambia solo el color. Si el título dice lo mismo con un color nuevo, ya distingues las dos tareas. En la próxima lección vamos a construir la presentación del perfil.
+
+Fragmento para señalar en la diapositiva
+<h1>Mi primera web</h1>
+
+h1 {
+  color: #5b21b6;
+}
+
+Para demostrar, usa los archivos iniciales y resueltos de la lección.
