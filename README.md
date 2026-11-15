@@ -166,7 +166,11 @@ Añade «Mi proyecto» y adapta la distribución de las dos tarjetas al ancho di
 - Contenedor de tarjetas con Flexbox, `flex-wrap` y `gap`.
 - Enlace actualizado a `#proyecto` y estilos de `scripts/tarjetas.css`.
 
-**Práctica.** Agrega la sección del proyecto, prueba su enlace y compara la vista amplia con la angosta.
+**Práctica.** Si el CodePen de la tabla no abre, crea uno nuevo y copia [`panel-html.txt`](starter-files/leccion-07/panel-html.txt) en el panel HTML y [`styles.css`](starter-files/leccion-07/styles.css) en el panel CSS.
+
+1. En HTML, añade una sección «Mi proyecto» con `id="proyecto"`. Pon ambas secciones dentro de un `div` con `class="tarjetas"`, aplica `class="tarjeta"` a cada sección y actualiza el enlace «Ver mi proyecto» a `href="#proyecto"`.
+2. En CSS, pega el bloque de [`tarjetas.css`](scripts/tarjetas.css) al final del panel, debajo de los estilos iniciales.
+3. Con la vista previa a 900 px de ancho, comprueba que las tarjetas queden lado a lado y que «Ver mi proyecto» lleve a su sección. A 320 px, comprueba que «Mi proyecto» quede debajo de «Mis gustos» y que no haya que desplazarse hacia los lados.
 
 **Consejos clave.** `flex-wrap` permite que una tarjeta pase a otra fila cuando falta espacio.
 
