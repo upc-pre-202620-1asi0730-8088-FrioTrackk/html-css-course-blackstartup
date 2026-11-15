@@ -50,7 +50,7 @@ html-css-course-blackstartup/
 | 4 | Enlaces y secciones | 8 min | [Ver video](https://www.youtube.com/watch?v=bJOnw4Z3lSQ) | [CodePen](https://codepen.io/Sebasti-n-Atauje/pen/gbmqPOZ) · [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
 | 5 | Colores y fuentes con CSS | 7 min | — | [CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre) · [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
 | 6 | Centrado, bordes y espacio | 8 min | — | [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
-| 7 | El perfil en pantallas pequeñas | 8 min | — | [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
+| 7 | El perfil en pantallas pequeñas | 8:01 | [Ver video](https://youtu.be/8EiuJZBi2yI) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6c-04e9-762d-b89f-70e735a3227a) · [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
 | 8 | Errores comunes y reto final | 7:01 | [Ver video](https://youtu.be/ae2Eah36l2o) | [CodePen](https://codepen.io/editor/Joaqu-n-DC/pen/01a1dd6d-364c-78f3-a88c-69c875c61ac5) · [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
 
 ---
