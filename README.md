@@ -48,8 +48,8 @@ html-css-course-blackstartup/
 | 2 | Tu primer documento HTML | 8 min | Enlace pendiente | [`leccion-02`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-02) | Saavedra Flores, Rodrigo Andree |
 | 3 | Listas e imágenes | 7 min | Enlace pendiente | [`leccion-03`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-03) | Atauje Barreto, Alexander Sebastián |
 | 4 | Enlaces y secciones | 8 min | Enlace pendiente | [`leccion-04`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-04) | Atauje Barreto, Alexander Sebastián |
-| 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
-| 6 | Centrado, bordes y espacio | 8 min | Enlace pendiente | [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
+| 5 | Colores y fuentes con CSS | 7 min | Enlace pendiente | [CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre) · [`leccion-05`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-05) | Vera Solsol, Nayely Macarena |
+| 6 | Centrado, bordes y espacio | 8 min | Enlace pendiente | [CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe) · [`leccion-06`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-06) | Vera Solsol, Nayely Macarena |
 | 7 | El perfil en pantallas pequeñas | 8 min | Enlace pendiente | [`leccion-07`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-07) | Daga Chávez, Joaquín Leonardo |
 | 8 | Errores comunes y reto final | 7 min | Enlace pendiente | [`leccion-08`](https://github.com/upc-pre-202620-1asi0730-8088-FrioTrackk/html-css-course-blackstartup/tree/leccion-08) | Daga Chávez, Joaquín Leonardo |
 
@@ -127,6 +127,12 @@ Organiza el contenido del perfil y conecta el saludo con la sección de gustos.
 
 Cambia el fondo, la tipografía y el color del título y del enlace del perfil.
 
+**Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Nayely-Vera/pen/zxZXvre).
+
+**Archivos de la lección.** [Iniciales](starter-files/leccion-05/) · [Ejemplo terminado](completed-examples/leccion-05/) · [Guion de apoyo](scripts/leccion-05.txt).
+
+El CodePen muestra el ejemplo terminado. Para realizar la práctica desde el inicio, copia `starter-files/leccion-05/panel-html.txt` en el panel HTML y `starter-files/leccion-05/styles.css` en el panel CSS. Después compara tus cambios con el ejemplo terminado.
+
 **Contenidos**
 
 - Selector, propiedad y valor de una regla CSS.
@@ -143,6 +149,8 @@ Cambia el fondo, la tipografía y el color del título y del enlace del perfil.
 ### 6️⃣ Lección 6 — Centrado, bordes y espacio
 
 Convierte el perfil en una tarjeta blanca, centrada y fácil de leer.
+
+**Código y práctica en línea.** [Abrir en CodePen](https://codepen.io/Nayely-Vera/pen/qErwObe).
 
 **Contenidos**
 
