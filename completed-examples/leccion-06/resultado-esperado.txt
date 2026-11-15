@@ -1,0 +1,2 @@
+Perfil centrado
+El contenido tiene espacio interior y un borde visible.
